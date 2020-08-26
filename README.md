@@ -1,2 +1,2 @@
-# Pojeto Git
- projeto git do curso
+# Projeto Git
+ Projeto Git Cursos em Vídeo
