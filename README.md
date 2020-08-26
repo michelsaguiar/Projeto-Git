@@ -1,2 +1,2 @@
-# projeto
- projeto git
+# Pojeto Git
+ projeto git do curso
